@@ -6,7 +6,7 @@ terraform {
     }
     datadog = {
       source  = "datadog/datadog"
-      version = "3.4.0"
+      version = "3.5.0"
     }
   }
   required_version = "0.15.0"
