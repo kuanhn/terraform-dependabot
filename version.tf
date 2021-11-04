@@ -2,7 +2,7 @@ terraform {
   required_providers {
     google = {
       source  = "hashicorp/google"
-      version = "3.90.1"
+      version = "4.0.0"
     }
     datadog = {
       source  = "datadog/datadog"
